@@ -1,0 +1,38 @@
+.titleCard {
+  font-size: 1.2rem;
+  font-variant-caps: small-caps;
+  color:#212121;
+}
+
+#counter {
+  margin-top: 2rem; 
+  margin-bottom: 2rem;
+}
+
+#buttonAdd, #buttonMinus {
+  margin-right: 1rem;
+}
+
+#buttonAll {
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  font-variant-caps: small-caps;
+  font-size: 1.1rem;
+  color: #212121;
+}
+
+.numberCount {
+  background-color: #8c9eff  ;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: 1rem;
+  margin-left: 1rem;
+  color: white;
+}
